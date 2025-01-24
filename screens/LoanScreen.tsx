@@ -23,7 +23,6 @@ const LoanScreen = () => {
     <View style={styles.container}>
       <Text style={styles.title}>Préstamos</Text>
 
-      {/* Imagen debajo del título */}
       <Image
         source={{ uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHlE7WSGnXZ0Pamo4P2l5EHom_8WeGVN1boQ&s' }} 
         style={styles.image}
